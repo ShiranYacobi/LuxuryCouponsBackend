@@ -1,2 +1,0 @@
-# LuxuryCouponsBackend
-Coupons system backend 
